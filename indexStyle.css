@@ -1,0 +1,41 @@
+#profilePic {
+  padding-right: 0px;
+  margin-right: 0px;
+}
+.linkedin:hover {
+  color: #0d5da1;
+}
+
+.facebook:hover {
+  color: #324f9e;
+}
+
+.instagram:hover {
+  color: #5824ac;
+}
+
+.icon {
+  padding: 2rem;
+  margin-top: 5rem;
+}
+
+.container {
+  height: 750px;
+}
+
+.container img {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+div a {
+  color: white;
+}
+
+div {
+  background-color: #050505;
+}
+
+body {
+  background-color: #050505;
+}
